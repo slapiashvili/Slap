@@ -135,4 +135,12 @@ let studentsthereTrippled = studentsthere.map { $0 * 3 }
 print(studentsthereTrippled)
 
 
+var lashaLossCount = 0
+var lashaRageLevel = 0
+var lashaTiredenessLevel = 0
+var hoursPlayed = 0
 
+
+func howManyLosses () {
+    
+}
